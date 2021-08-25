@@ -1,0 +1,2 @@
+# Telecommunication-Project
+The Telecommunication Project module describes the different techniques to analyze the received signal to reduce noise from signal and implement those techniques use in spyder for python coding. During the semester generating spectra of time domain signal using FFT, averaging of signal, coherent integration and in coherent integration techniques were learned and implemented for random generated signals and given original signals.
